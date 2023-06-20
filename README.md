@@ -9,7 +9,11 @@ I have trained a basic model for laser pointer detection using yolov8.The datase
 SAMPLE INPUT:
 
 
-https://github.com/ARAVINT-S-A/laser_detection_yolov8/assets/116646226/89284f45-bca7-48d8-8ed4-2bd540ebdd45
+
+
+https://github.com/ARAVINT-S-A/laser_detection_yolov8/assets/116646226/3be6d2db-612a-42ae-b44b-d5d352ceece4
+
+
 
 
 SAMPLE OUTPUT:
